@@ -35,3 +35,6 @@ Tic Tac Toe project. Mainly to apply our knowledge of arrays.
 
 ## Exe9:
 Pointers.
+
+## Exe10:
+Structs.
