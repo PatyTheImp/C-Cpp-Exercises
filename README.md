@@ -41,3 +41,6 @@ Structs.
 
 ## Exe11:
 File handling.
+
+## Equipas:
+Project about string manipulation and file handling.
