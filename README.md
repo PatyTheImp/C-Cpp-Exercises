@@ -20,3 +20,6 @@ Introdution to loops.
 
 ## Quiz:
 Project about making a quiz to apply our knowledge of decision structs and loops.
+
+## Exe6:
+Subprograms.
