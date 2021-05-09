@@ -26,3 +26,9 @@ Subprograms.
 
 ## Exe7:
 Unidimensional and multidimensional arrays.
+
+## Exe8:
+String manipulation.
+
+## Jogo do galo
+Tic Tac Toe project. Mainly to apply our knowledge of arrays.
