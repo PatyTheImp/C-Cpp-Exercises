@@ -1,0 +1,4 @@
+Nota de português: 13,00
+Nota de inglês: 19,00
+Nota de informática: 20,00
+Média = 17,33
