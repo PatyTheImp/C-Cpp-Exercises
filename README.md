@@ -23,3 +23,6 @@ Project about making a quiz to apply our knowledge of decision structs and loops
 
 ## Exe6:
 Subprograms.
+
+## Exe7:
+Unidimensional and multidimensional arrays.
