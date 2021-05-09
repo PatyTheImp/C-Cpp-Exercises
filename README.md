@@ -11,3 +11,9 @@ Learnig how to scan from the console. Variables and its types.
 
 ## Exe3:
 Constants.
+
+## Exe4:
+Introdution to decision structs.
+
+## Exe5:
+Introdution to loops. 
