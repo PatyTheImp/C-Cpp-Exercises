@@ -17,3 +17,6 @@ Introdution to decision structs.
 
 ## Exe5:
 Introdution to loops. 
+
+## Quiz:
+Project about making a quiz to apply our knowledge of decision structs and loops.
