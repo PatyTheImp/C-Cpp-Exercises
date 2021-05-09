@@ -32,3 +32,6 @@ String manipulation.
 
 ## Jogo do galo
 Tic Tac Toe project. Mainly to apply our knowledge of arrays.
+
+## Exe9:
+Pointers.
