@@ -7,3 +7,7 @@ Learning how to print in the console. Escaped characters.
 
 ## Exe2:
 Learnig how to scan from the console. Variables and its types.
+
+
+## Exe3:
+Constants.
